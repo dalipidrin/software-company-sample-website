@@ -1,0 +1,4034 @@
+.round_div{
+
+  position: absolute;
+  left: 314px;
+  height: 600px;
+  width: 600px;
+  background-color: #003366;
+  border-radius: 50%;
+  opacity: 1;
+  
+}
+
+.square_div{
+
+  position: relative; 
+  margin-top:1000px;
+  height: 600px;
+  width: 600px;
+  background-color: #003366;
+  opacity: 0.5;
+  margin-left:-20px;
+
+}
+
+
+.header_menu{
+    float left;
+	width: 763px;
+	height: 50px;
+	
+	
+	display: flex;
+	justify-content:space-between;
+	
+	
+}
+
+.header_menu a {
+
+	text-decoration: none;
+	color:white;
+}
+
+
+
+.div_header_img{
+
+   position: absolute;
+   height: 97%;
+   width: 100%;
+   left: 1.8%;
+   top: 2%;
+   margin-bottom: 20px;
+   border-top-left-radius: 50%;
+   overflow: hidden;
+   border-bottom-left-radius: 50%;
+  
+    
+    
+  
+   
+
+
+}
+
+
+.div_header_img img {
+
+	width: 100%;
+	height: 100%;
+}
+
+
+
+
+
+.white_border{
+ 
+  width: 45%;
+  height: 90%;
+  position: relative;
+  margin-top: -143px;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  margin-left: 51.8%;
+  border-top:40px solid #233567;
+    border-left:40px solid #233567;
+   
+
+
+
+}
+
+
+
+
+.div_home {
+
+  margin-top: 36px;
+  font-size: 20px;
+ 
+
+}
+
+.div_home a{
+	color:#003366;
+}
+
+
+.div_about {
+
+	margin-top: 36px;
+	font-size: 20px;
+
+}
+
+.div_about a{
+
+	color:#003366;
+}
+
+
+.div_Appointment{
+
+margin-top: 36px;
+font-size: 20px;
+
+}
+
+.div_Appointment a{
+
+	color: #003366;
+}
+
+
+.div_contact{
+
+margin-top: 36px;
+font-size: 20px;
+margin-right: -29px;
+
+
+}
+
+.div_contact a{
+
+	color: #003366;
+}
+
+
+
+.div_logo img {
+
+	width: 40px;
+	height: 40px;
+	padding-bottom: 5px;
+	position: absolute;
+
+}
+.div_logo{
+	margin-top: 28px;
+	border-radius:37px;
+	overflow: hidden;
+	width: 40px;
+	height: 40px;
+	position: relative;
+	margin-left: 51px;
+}
+
+.div_logo2{
+border-radius:37px;
+  overflow: hidden;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  margin-left: 51px;
+  display: inline-block;
+  margin-top: 9px;
+
+}
+
+.div_logo2 img{
+width: 100%;
+  height: 100%;
+  padding-bottom: 5px;
+  position: absolute;
+
+}
+
+.info_div{
+
+	display: inline;
+	float:left;
+	
+	width: 30%;
+	height: 61%;
+	margin-top: 20%;
+	margin-left:12%;
+}
+
+
+.info_div button {
+
+  border-radius: 64px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: white;
+  background-color: #003366;
+  width: 200px;
+  font-size: 1.1em;
+  margin-left: 32%;
+  margin-top: 3%;
+  font-family:'Crimson Text', serif; 
+  letter-spacing: 1.1px;
+
+}
+
+
+.info_div h2 {
+
+  font-family:'Crimson Text', serif;
+	margin-left: 16%;
+	margin-bottom: 29px;
+	color: rgba(0, 51, 102, 1);
+  font-size: 2em;
+}
+
+.info_div p {
+
+  font-size: 1.5em;
+  text-align: center;
+  font-family: 'Muli', sans-serif;
+  color: rgba(0, 51, 102, .8);
+
+
+}
+
+
+body {
+  
+	margin:auto 0;
+	background-color: #F5F5F5;
+  font-family: 'Muli', sans-serif;
+}
+
+
+
+
+.tri_katroret{
+
+  width: 100%;
+  margin-top:46px;
+  height: 565px;
+
+}
+
+
+
+.parallax{
+
+  background: url(images/office.jpg) no-repeat;
+  width: 100%;
+  height: 438px;
+  overflow: hidden;
+  background-size: cover;
+  background-attachment: fixed;
+
+
+}
+.parallax img{
+  width: 100%;
+  height: 100%;
+}
+
+
+section button {
+
+  margin-top:11%;
+  margin-left: 44%;
+  padding: 12px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ffdfdf;
+  font-size: 23px;
+  width:244px;
+  border-radius:64px;
+  background-color:#233567;
+  font-family: 'Crimson Text', serif;
+  border: 2px solid #ffdfdf;
+
+}
+
+
+section button:hover{
+background-color:#ffdfdf;
+color:#233567;
+cursor: pointer;
+border-color: #233567;
+
+}
+
+.rrethi_poshte_parallax{
+
+  float: right;
+  border-top-left-radius: 50%;
+  background-color: #F5F5F5;
+  height: 400px;
+  width:400px;
+  margin-top: -200px;
+}
+
+
+.first_hark{
+
+
+width: 30%;
+height: 80%;
+
+
+position: absolute;
+top: 95px;
+left: 0.2%;
+ /* border-top-right-radius: 227px;
+  
+    border-top:40px solid #315b96;
+    border-right:40px solid #315b96;
+     */
+
+
+}
+
+
+
+.second_hark{
+
+width: 30%;
+height: 80%;
+position: absolute;
+top: 10%;
+left: 33.7%; 
+
+
+
+
+  
+   /* border-bottom:40px solid rgba(0, 51, 102, .5);  
+    border-left:40px solid #315b96;
+     border-right:40px solid #315b96;
+       border-bottom-left-radius: 600px;
+   border-bottom-right-radius: 600px;
+
+     margin-left: -75px;
+     margin-top: 232px;
+
+     */
+
+
+
+}
+
+
+.third_hark{
+
+
+width: 30%;
+height: 80%;
+position: absolute;
+top: 95px;
+right: 16px;
+
+
+/*
+ border-top-left-radius: 600px;
+ 
+ border-top:40px solid #315b96;
+    border-left:40px solid #315b96;
+     border-bottom:40px solid rgba(0, 51, 102, 0);
+     
+     margin-left: -74px;
+     height: 166px;
+    margin-top: -14px;
+
+*/
+
+}
+
+
+.container_hark{
+  position: relative;
+	width: 100%;
+  height: 45%;
+  margin-bottom: 140px;
+
+}
+
+.container_hark img {
+
+  width: 100%;
+  height: 100%;
+}
+
+.div_rezervimet{
+
+   width: 80%;
+   height: 340px;
+   margin-top: 163px;
+   
+   margin-left: 51px;
+   border-top-right-radius: 121px;
+   border-bottom-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+   border-top-left-radius: 25px;
+   text-align: center;
+
+}
+
+
+.div_staff{
+
+   width: 80%;
+   height: 92%;
+   margin-left: 13%;
+   opacity: 0;
+   
+   border-bottom-left-radius: 158px;
+   border-bottom-right-radius: 158px;
+   border-top-left-radius: 25px;
+   border-top-right-radius: 25px;
+   text-align: center;
+
+
+
+}
+
+
+
+.div_results{
+
+   width: 80%;
+   height: 340px;
+   margin-top: 163px;
+   
+   margin-left: 66px;
+   border-top-left-radius: 121px;
+   border-bottom-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+   border-top-right-radius: 25px;
+   text-align: center;
+
+
+
+}
+
+.div_rezervimet img {
+
+
+
+	margin-top: 25px;
+}
+
+.div_staff img {
+
+
+
+	margin-top: 25px;
+}
+
+.div_results img {
+
+
+
+	margin-top: 25px;
+}
+
+
+
+
+
+.div_rezervimet p {
+
+
+	
+	
+	color: rgba(0, 51, 102, .8);
+	padding-right: 16px;
+	padding-left: 14px;
+	font-size: 20px;
+}
+.div_staff p {
+
+
+	margin-left: 10px;
+	
+	color: rgba(0, 51, 102, .8);
+    padding-right: 16px;
+	padding-left: 11px;
+	font-size: 20px;
+
+}
+.div_results p {
+
+
+	margin-left: 10px;
+	
+	color: rgba(0, 51, 102, .8);
+    padding-right: 16px;
+	padding-left: 17px;
+	font-size: 20px;
+
+}
+
+.div_rezervimet:hover{
+
+	
+	box-shadow: 0 0 60px #333;
+
+}
+
+.div_results:hover {
+
+   
+	box-shadow: 0 0 60px #333;
+
+}
+
+.harta_harku{
+
+  
+	width: 100%;
+	height:584px;
+	background-color: rgba(0, 51, 102, 0.3);
+
+}
+
+.harku{
+
+	float: right;
+	height: 546px;
+	width: 52%;
+	border-top:30px solid #F5F5F5;
+	border-left:30px solid #F5F5F5;
+	border-bottom:30px solid #F5F5F5;
+	background-color: #315b96;
+	border-top-left-radius: 50%;
+	border-bottom-left-radius: 50%;
+	margin-top: -621px;
+  position: absolute;
+  margin-left: 46.2%;
+}
+
+
+
+.containerResults{
+
+	
+	transform:translate(75px,87px);
+	width:70%;
+	height: 34%;
+	padding-left: 10%;
+  margin-left: -83px;
+  margin-top: -47px;
+	
+}
+
+.containerResults2{
+
+  
+  transform:translate(75px,87px);
+  width:70%;
+  height: 34%;
+  padding-left: 10%;
+  margin-left: -83px;
+  margin-top: -47px;
+  
+}
+
+.containerResults3{
+
+  
+  transform:translate(75px,87px);
+  width:70%;
+  height: 34%;
+  padding-left: 10%;
+  margin-left: -83px;
+  margin-top: -47px;
+
+  
+}
+
+#img_ilustrimi_test{
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  width: 100px;
+
+}
+
+
+
+.imageBox {
+
+
+	position: absolute;
+  width: 100%;
+  height: 100%;
+	
+}
+
+
+.imageAfter{
+
+	width: 54%;
+	transition: 1s;
+	overflow: hidden;
+	border-right: 7px solid #ffdfdf;
+
+	
+}
+
+
+
+
+.containerResults:hover .imageAfter{
+
+	width: 100%;
+
+}
+
+.containerResults2:hover .imageAfter{
+
+  width: 100%;
+
+}
+
+
+.containerResults3:hover .imageAfter{
+
+  width: 100%;
+
+}
+
+.imageBefore {
+
+
+    
+
+    overflow: hidden;
+
+}
+
+
+.div_flex {
+ 
+    width: 100%;
+    height: 730px;
+	display: flex;
+	flex-direction:row;
+  justify-content: space-evenly;
+  margin-top:-30px;
+}
+
+.div_flex_2 {
+ 
+    width: 100%;
+    height: 400px;
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+}
+
+.div_flex_3 {
+ 
+    width: 100%;
+    height: 400px;
+  display: flex;
+  flex-direction:row;
+}
+
+
+
+.rrathet {
+  width: 100%;
+  height: 270px;
+  margin-top: 45px;
+}
+
+
+
+
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  opacity: 0.7;
+  right:0;
+  background-color: #a49ebf;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  transition: 2s ease;
+
+}
+
+.overlay2 {
+  position: absolute;
+  bottom: 0;
+  
+  left:0;
+  background-color: #a39abd;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  transition: 2s ease;
+
+}
+
+.div_description_text_1 {
+
+  width: 400px;
+  height: 400px;
+  
+}
+
+#first_h2{
+
+  margin-top: 150px;
+  margin-left: 65px;
+  opacity: 0;
+}
+#second_h2{
+
+  margin-top: 150px;
+  margin-left: 65px;
+  opacity: 0;
+}
+#third_h2{
+
+  margin-top: 150px;
+  margin-left: 65px;
+  opacity: 0;
+}
+#fourth_h2{
+
+  margin-top: 150px;
+  margin-left: 65px;
+  opacity: 0;
+}
+
+#first_p {
+  margin-left: 65px;
+  opacity: 0;
+}
+#second_p {
+  margin-left: 65px;
+  opacity: 0;
+}
+#third_p {
+  margin-left: 65px;
+  opacity: 0;
+}
+#fourth_p {
+  margin-left: 65px;
+  opacity: 0;
+}
+
+#first_h3 {
+  margin-left:65px;
+  opacity: 0;
+}
+#second_h3 {
+  margin-left:65px;
+  opacity: 0;
+}
+#third_h3 {
+  margin-left:65px;
+  opacity: 0;
+}
+#fourth_h3 {
+  margin-left:65px;
+  opacity: 0;
+}
+
+.contact_forma{
+
+  height: 1000px;
+  background: #002366;
+  width: 100%;
+}
+.div_emri_mbiemri{
+  width: 300px;
+  height: 100px;
+  margin-left: 800px;
+  margin-top: 155px;
+  
+  display: block;
+}
+
+.div_numri_telefonit{
+  width: 300px;
+  height: 100px;
+  margin-left: 382px;
+  margin-top: 40px;
+  display: inline-block;
+  opacity: 0.2;
+}
+.div_adresa{
+  width: 300px;
+  height: 100px;
+
+  margin-left: 25%;
+   display: inline-block;
+   opacity: 0.2;
+
+}
+
+.div_mesazhi {
+  width: 300px;
+  height: 100px;
+  margin-top: 85px;
+  margin-left: 382px; 
+   display: inline-block;
+   opacity: 0.2;
+
+}
+.div_mesazhi2{
+   width: 300px;
+  height: 100px;
+  margin-left: 25%;
+   display: inline-block;
+   opacity: 0.2;
+
+}
+.div_mesazhi3{
+   width: 300px;
+  height: 100px;
+  margin-left: 795px;
+  margin-top: 85px;
+  opacity: 0.2;
+   display: inline-block;
+
+}
+.div_numri_adresa_container{
+  margin-top: 50px;
+  display: flex; 
+  justify-content: space-around;
+}
+.div_mesazhet_container{
+  margin-top: 100px;
+  display: flex; 
+  justify-content: space-around;
+}
+#first_question{
+  color:white;
+}
+input {
+  width: 240px;
+  height: 25px;
+  border-radius: 20px;
+  background-color: #1034a6;
+}
+#inputi_pare{
+  background-color: white;
+}
+#butoni_pare{
+  width: 40px;
+  height: 35px;
+  border-radius: 30%;
+  margin-left: 2px;
+  margin-left: -40px;
+
+}
+
+
+.rrethi_pare{
+width: 15%;
+height: 250px;
+border-radius: 50%;
+
+background: green;
+display: inline-block;
+overflow: hidden;
+margin-top: -50px;
+position: relative;
+}
+
+.rrethi_dyte{
+width: 15%;
+height: 250px;
+border-radius: 50%;
+background: green;
+display: inline-block;
+overflow: hidden;
+position: relative;
+}
+
+.rrethi_trete{
+width: 15%;
+height: 250px;
+border-radius: 50%;
+background: green;
+display: inline-block;
+overflow: hidden;
+position: relative;
+}
+
+.rrethi_katert{
+width: 15%;
+height: 250px;
+border-radius: 50%;
+background: green;
+display: inline-block;
+overflow: hidden;
+position: relative;
+
+
+
+}
+.rrethi_peste{
+width: 15%;
+height: 250px;
+border-radius: 50%;
+background: green;
+display: inline-block;
+overflow: hidden;
+
+}
+
+
+.div_rrathet_container{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  height: 600px;
+  margin-top: 100px;
+}
+
+.div_vija_pare{
+
+  width: 10px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  margin-left: 2.5%;
+  
+  
+}
+
+.div_vija_dyte{
+
+   width: 2px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  
+}
+
+.div_vija_trete{
+
+   width: 2px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+}
+
+.div_vija_katert{
+
+   width: 2px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+}
+.div_vija_peste{
+
+   width: 2px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+}
+
+.div_vija_gjashte{
+
+   width: 2px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+}
+#img_ilustrimi {
+
+    width: 2px;
+    margin-left: 8.3%;
+    margin-top: -4.5%;
+}
+
+#img_ilustrimi2 {
+
+    width: 2px;
+    margin-left: 3.3%;
+    margin-top: -4.5%;
+}
+
+#img_ilustrimi3 {
+  width: 2px;
+    margin-left: 3.3%;
+   
+    margin-top: -4.5%;
+}
+
+#img_ilustrimi4 {
+  width: 2px;
+    margin-left: 3.3%;
+   
+    margin-top: -4.5%;
+}
+#img_ilustrimi5 {
+  width: 2px;
+    margin-left: 3.3%;
+   
+    margin-top: -4.5%;
+}
+
+#butoni_test{
+  display: block;
+  margin-top: 350px;
+}
+
+#div_sherbimet1{
+
+ height: 90%;
+ width: 15%;
+ background: #F5F5F5;
+ margin-left: 7%;
+ display: inline-block;
+ opacity: 0;
+
+}
+
+
+.div_sherbimet{
+
+ margin-left: 2.6%;
+ height: 90%;
+ width: 15%;
+ background: #F5F5F5;
+ display: inline-block;
+ opacity: 0;
+
+}
+
+.h3_services{
+  margin-left: 29%;
+  color: rgb(0,51,102);
+  font-family: 'Crimson Text', serif;
+  font-size: 1.6em;
+}
+
+#paragraf_services{
+
+  color: rgb(49, 91, 150);
+  text-align: center;
+  font-size: 1em;
+}
+
+
+
+.div_desc_containerResults{
+
+width: 330px;
+height: 330px;
+background-color: #F5F5F5;
+border-radius: 50%;
+margin-left: 345px; 
+margin-top: 30px;
+border: 3.5px solid rgba(0, 51, 102) ;
+}
+
+
+
+/*******************************
+
+
+FOOTER
+
+
+
+*****************************/
+
+
+
+
+
+footer {
+  width: 100%;
+  height: 500px;
+  background: #003366;
+}
+
+.footer_menu_social_container{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: 200px;
+}
+
+.footer_menu_container{
+  width: 50%;
+}
+.footer_social_container{
+  width: 50%;
+}
+.footer_links_icons_container{
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+.footer_links_container{
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 200px;
+}
+.footer_icons_container{
+  width: 50%;
+  height: 150px;
+  display: flex; 
+  flex-wrap: wrap; 
+}
+.footer_links_container_child{
+  width: 200px  ;
+  height: 200px;
+}
+.footer_links_container_child_kontakti_ekipi{
+  width: 200px  ;
+  height: 200px;
+}
+.footer_icons_container_child{
+  width: 130px;
+  height: 130px;
+  margin-left: 45px;
+}
+.div_footer_links_container_link_child{
+  width: 100%;
+  height: 33%;
+}
+.div_footer_links_container_link_child a {
+  color: #ffdfdf;
+  text-decoration: none;
+}
+.footer_hr_container_first{
+    width: 100%;
+    height: 23px;
+    margin-top: 7%;
+}
+.footer_hr_container_first hr {
+    width: 10%;
+    margin-left: 14%;
+}
+.footer_heading_container_first{
+      width: 100%;
+    height: 50px; 
+}
+.footer_heading_container_first h2{
+  margin-left: 14%;
+  font-family: "Crimson Text", serif;
+  color: #fbc1bc;
+}
+
+.footer_hr_container_second{
+  width: 100%;
+    height: 23px;
+    margin-top: 7%;
+}
+.footer_hr_container_second hr{
+    width: 16%;
+    margin-left: 9.3%;
+}
+.footer_heading_container_second{
+      width: 100%;
+    height: 50px; 
+}
+
+.footer_heading_container_second h2{
+  margin-left: 9.3%;
+  font-family: "Crimson Text", serif;
+  color: #fbc1bc;
+}
+
+.footer_copyrights_container{
+  width: 100%;
+  height: 100px;
+}
+.div_social_media_icons_link_container{
+  width: 100%;
+  height: 30px;
+
+}
+.div_last_hr_container{
+   width: 100%;
+  height: 10px;
+}
+.div_copyright_menu_icon_container{
+   width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.div_copyright_menu_icon_container div {
+  width: 50%;
+}
+.div_copyright_menu_icon_container div p{
+  margin-left: 18%;
+  color: white;
+}
+#menu_icon_copyright{
+  margin-left: 20%;
+
+}
+.icon8_link{
+  margin-left: 20px;
+  float: right;
+  color: white;
+}
+
+
+
+
+.div_desc_containerResults2{
+
+width: 330px;
+height: 330px;
+background-color:#F5F5F5 ;
+border-radius: 50%;
+margin-left: 401px; 
+margin-top: 32px;
+border: 3.5px solid rgba(0, 51, 102) ;
+
+
+}
+
+
+.div_desc_containerResults3{
+
+width: 330px;
+height: 330px;
+background-color:#F5F5F5 ;
+border-radius: 50%;
+margin-left: 345px; 
+margin-top: 32px;
+border: 3.5px solid rgba(0, 51, 102) ;
+
+}
+
+
+.polygon_1{
+  clip-path: polygon(100% 40%, 100% 41%, 0 100%, 0 99%);
+
+  background-color:rgba(0, 51, 102) ;
+  width: 284px;
+  height: 401px;
+  margin-top: -267px;
+  margin-left: -468px;
+}
+
+.polygon_2{
+background-color:rgba(0, 51, 102) ;
+  clip-path: polygon(100% 69%, 0 16%, 0 17%, 100% 70%);
+   width: 268px;
+  height: 478px;
+  margin-left: -593px;
+    margin-top: -192px; 
+}
+
+
+
+
+.desc_container{
+width: 250px;
+height: 250px;  
+margin-left: 38px;
+    margin-top: 62px;
+
+}
+
+/***********************************************************
+
+
+
+                       SERVICES PAGE
+
+
+
+*************************************************************/
+
+
+#tablink1{
+  border-bottom-left-radius: 48px;
+}
+#tablink4{
+border-top-right-radius: 48px;
+}
+
+.tablink {
+  background-color: #e9e9e9;
+  color: #fbc1bc;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 40px 16px;
+  font-size: 23px;
+  width: 22%;
+  font-family: 'Crimson Text', serif;;
+
+
+}
+
+.tablink:hover {
+  background-color: #b8c4d1;
+  color: white;
+}
+
+/* Style the tab content */
+.tabcontent {
+  color: #2f89fc;
+  display: none;
+  padding: 50px;
+  text-align: center;
+  width:71.6%;
+  margin-left:12%;
+  height: 1200px;
+  border-top-left-radius: 48px;
+  border-bottom-right-radius: 48px;
+
+ 
+}
+
+.buttons_container{
+margin-left:200px;
+
+}
+
+#London {background-color: rgba(0,0,0,.05);}
+#Paris {background-color: rgba(3,0,0,.05);}
+#Tokyo {background-color: rgba(3,0,0,.05);}
+#Oslo {background-color:  rgba(3,0,0,.05);}
+
+#hapesira_buton_div{
+  display: flex;
+  justify-content:space-around;
+  width:100%;
+  height: 24px;
+}
+
+
+.trekendeshi{
+
+background-color: #315b96;
+clip-path: polygon(72% 0, 23% 0, 47% 44%);
+   width: 40px;
+  height: 40px;
+  opacity: 0 ;
+
+}
+
+#trekendeshi_pare{
+
+margin-left: 200px;
+
+}
+
+#trekendeshi_fundit{
+margin-right: 170px;
+
+}
+
+
+.wrapper{
+  width: 100%;
+  margin:0 auto;
+  height: 95%;
+ /* background-image: url("images/test-back2.png");  */
+}
+
+/**********************************
+
+header services
+
+
+*************************************/
+
+.div_header_contact {
+
+   width:auto;
+   position: absolute;
+   margin:20px;
+
+}
+
+
+
+
+#div_header_contact__contact {
+  top: 7px;
+  
+}
+
+#div_header_contact__aboutus {
+  top: 67px;
+  
+}
+
+
+#div_header_contact__training {
+  top: 127px;
+  
+}
+
+#div_header_contact__clublife {
+  top: 187px;
+  
+}
+
+
+#id_home_contactPage {
+
+padding-left: 650px;
+
+}
+
+
+.div_header_contact a{
+  
+  color:rgb(47, 137, 252);
+  float:right;
+  padding-top: 17px;
+    padding-left:53px;
+    padding-bottom: 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+}
+.div_header_contact a:hover {
+   color: #003366;
+
+
+}
+
+.wrapper_services{
+  width: 100%;
+  margin:auto 0;
+}
+
+
+.div_image_contact {
+  /* The image used */
+  background-image: url("images/code.jpg");
+
+  min-height: 515px;
+
+ 
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+ 
+ 
+  
+}
+
+.div_image_contact_Team {
+  /* The image used */
+  background-image: url("images/meet_Team_top_image.jpeg");
+
+  height: 500px;
+  width: 100%;
+  overflow: hidden;
+  background: #233567;
+
+ /* The image used 
+  background-position: 0px -63px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  */
+ 
+ 
+  
+}
+.div_image_contact_Team img {
+  width: 100%;
+  height: 100%;
+  filter: grayscale(50%);
+  opacity: 0.5;}
+
+.div_homepage_ovale_container{
+  display: none;
+  height: 400px;
+  width: 100%;
+  
+}
+
+
+.div_brusha_container{
+  height: 369px;
+  background-color:  #F5F5F5;
+}
+
+
+.div_brusha_siperme{
+  height: 250px;
+  background-color:  #F5F5F5;
+}
+
+.div_brusha_poshtme{
+    height: 2px;
+    background-color:  #F5F5F5;
+}
+
+.shtylla_brushes{
+  height: 35px;
+  width: 0%;
+  background-color: rgba(0, 51, 102, 0.5);
+  margin-left: 30%;
+}
+
+
+.div_brusha_siperme_flex{
+   width: 20%;
+   height: 250px;
+   background-color:  #F5F5F5;
+   margin-left: 50%;
+   display: flex;
+   justify-content:space-between;
+
+
+}
+
+.fija_brushes_1{
+
+  height: 0px;
+  margin-top: 105px;
+  width: 30px;
+  background-color: rgba(0, 51, 102, 0.5);
+}
+.fija_brushes_2{
+
+  height: 0px;
+  margin-top: 170px;
+  width: 30px;
+  background-color: rgba(0, 51, 102, 0.5);
+}
+.fija_brushes_3{
+
+  height: 0px;
+  margin-top: 105px;
+  width: 30px;
+  background-color: rgba(0, 51, 102, 0.5);
+}
+.fija_brushes_4{
+
+  height: 0px;
+  margin-top: 170px;
+  width: 30px;
+  background-color: rgba(0, 51, 102, 0.5);
+}
+.fija_brushes_5{
+
+  height: 0px;
+  margin-top: 105px;
+  width: 30px;
+  background-color: rgba(0, 51, 102, 0.5);
+}
+.fija_brushes_6{
+
+  height: 0px;
+  margin-top: 170px;
+  width: 30px;
+  background-color: rgba(0, 51, 102, 0.5);
+}
+
+
+
+.div_three_gradient_info{
+
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content:space-around;
+  margin-top: 180px;
+}
+
+.div_first_gradient{
+  width: 33.33%;
+  height: 400px;
+  display: flex;
+  justify-content:space-around;
+  background-image: linear-gradient(to right, #336699 , #6699cc);
+}
+
+.div_second_gradient{
+  width: 33.33%;
+  height: 400px;
+  display: flex;
+  justify-content:space-around;
+   background-image: linear-gradient(to right, #336699 , #6699cc);
+}
+
+.div_third_gradient{
+  width: 33.33%;
+  height: 400px;
+  display: flex;
+  justify-content:space-around;
+   background-image: linear-gradient(to right, #336699 , #6699cc);
+}
+
+.div_first_gradient_teksti{
+
+  display: inline-block;
+  color: white;
+  margin-left: 56px;
+}
+
+#image_braces_gradient{
+
+margin-top: 100px;
+margin-left: 80px;  
+
+
+}
+
+
+
+
+.div_sherbimet_hidden_info{
+ 
+ height: 612px;
+ width: 100%;
+}
+.div_sherbimet_hidden_info_container{
+  display: flex;
+  justify-content:space-around;
+  width: 70%;
+  height: 600px;
+  margin-left: 15%;
+  padding-top: 80px;
+}
+
+.div_sherbimet_hidden_info_1_active{
+
+  width: 25%;
+  height: 600px;
+  display: flex;
+  flex-direction:column;
+  justify-content:space-around;
+
+}
+
+
+
+.div_sherbimet_hidden_info_2{
+  width: 25%;
+  height: 600px;
+   display: flex;
+  flex-direction:column;
+  justify-content:space-around;
+}
+
+
+
+.div_sherbimet_hidden_info_3{
+  width: 25%;
+  height: 600px;
+   display: flex;
+  flex-direction:column;
+  justify-content:space-around;
+}
+
+
+
+.div_sherbimet_hidden_info_4{
+  width: 25%;
+  height: 600px;
+   display: flex;
+  flex-direction:column;
+  justify-content:space-around;
+}
+
+
+.div_h3_sherbimet_1{
+  width: 100%;
+  height: 54px;
+  display: inline-block;
+}
+
+.div_shiriti_1{
+  width: 100%;
+  height: 100px;
+  display: inline-block;
+}
+
+.div_paragrafi_1{
+  width: 100%;
+  height: 300px;
+  display: inline-block;
+  margin-top: -85px;
+}
+
+
+#div_rrethi_shiritit_active{
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #003366;
+  border:2px solid #003366;
+}
+
+
+#hr_shiriti_active{
+  background-color: #003366;
+  width: 270px;
+    height: 1px;
+    margin-top: -10px;
+    margin-left: 20px;
+}
+#h2_lokacioni{
+  opacity: 0.5;
+
+}
+
+#h2_orari_active{
+  color: #003366;
+  opacity: 0.6
+}
+
+
+#div_rrethi_shiritit_2{
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #F5F5F5;
+  border:2px solid gray;
+  opacity: 0.6;
+
+}
+#div_rrethi_shiritit_3{
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #F5F5F5;
+  border:2px solid gray;
+  opacity: 0.6;
+
+}
+#div_rrethi_shiritit_4{
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #F5F5F5;
+  border:2px solid gray;
+  opacity: 0.6;
+
+}
+.div_language_switcher_responsive{
+  position: absolute; 
+  top: 5.7%;
+  right: 0;
+  width: 56px;
+  height: 98px;
+  background: #233567;
+  overflow: hidden;
+  display: none;
+}
+.div_language_switcher_responsive ul {
+  list-style-type: none;
+  float: right;
+  margin-top: 10px;
+  padding: 0;
+}
+
+.div_language_switcher_responsive a{
+  float: left;
+  padding: 5px;
+  position: relative;
+  width: 30px;
+  height: 20px;
+  overflow: hidden;
+  display: block;
+  margin-right: 7px;
+  transition: .3s;
+  
+
+
+}
+.div_language_switcher_responsive a:last-child {
+  margin-top: 6.5px;
+}
+.div_language_switcher_responsive img {
+  width: 100%;
+  height: 100%;
+  background: red;
+}
+.div_language_switcher_responsive img:hover{
+  filter: grayscale(40%);
+  opacity: 0.7;
+}
+
+
+#hr_shiriti_2{
+  background-color: gray;
+  width: 270px;
+    height: 1px;
+    margin-top: -10px;
+    margin-left: 20px;
+    opacity: 0.6;
+}
+#hr_shiriti_3{
+  background-color: gray;
+  width: 270px;
+    height: 1px;
+    margin-top: -10px;
+    margin-left: 20px;
+    opacity: 0.6;
+}
+#hr_shiriti_4{
+  background-color: gray;
+  width: 270px;
+    height: 1px;
+    margin-top: -10px;
+    margin-left: 20px;
+    opacity: 0.6;
+}
+
+#p_orari_active{
+  color: #003366;
+  opacity: 0.6;
+  padding-right: 20px;
+}
+
+#paragrafi_lokacioni{
+  padding-right: 20px;
+  opacity: 0;
+}
+
+#paragrafi_online{
+   padding-right: 20px;
+   opacity: 0;
+}
+#paragrafi_lorem_ipsum{
+   padding-right: 20px;
+   opacity: 0;
+}
+#h2_sherbimi_online{
+  opacity: 0.6;
+}
+#h2_lorem_ipsum{
+  opacity: 0.6;
+}
+
+
+
+
+/************************
+
+MEET THE TEAM 
+
+
+***********************/
+
+
+
+.div_meetTeam_container{
+
+  width: 100%;
+  height: 510px;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.div_meetTeam_dentist_container{
+
+width: 22.5%;
+height: 940px;
+
+
+}
+
+.div_meetTeam_dentist_image_circle{
+  border-radius:50%;
+  width: 16%;
+  background-color: white;
+  height: 165%;
+  border: 9px solid #F5F5F5;
+  /*position: absolute;
+  margin-left:46px;
+  margin-top: -142px;*/
+  overflow: hidden;
+  position: relative;
+}
+
+
+.div_meetTeam_dentist_content{
+
+width: 100%;
+height: 63%;
+background-color: #315b96;
+margin-top: -179px;
+
+}
+
+.div_meetTeam_dentist_content_paragraf{
+ 
+  padding-left:8%;
+    padding-right: 8%;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+
+}
+
+.div_doctor_image_container_responsive img{
+   
+   -webkit-filter:brightness(50%);
+   -webkit-transition:all 0.5s ease;
+
+
+}
+
+.div_doctor_image_container_responsive img:hover{
+   
+   -webkit-filter:brightness(100%);
+
+
+
+}
+
+
+
+#h3_meetTeam{
+
+  color: #fbc1bc;
+  padding-left: 29%;
+  letter-spacing: 1.5px;
+  padding-top: 40%;
+
+}
+
+
+.buttonRead {
+  background-color: whitesmoke; /* Green */
+  border: none;
+  color: white;
+ 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius:15px;
+}
+.buttonRead a {
+  display: block;
+  height: 37px;
+  width: 157px; 
+  padding-top: 10px;
+  color: #315b96;
+  text-decoration: none;
+  font-family: "Crimson Text", serif;
+  font-size: 20px;
+}
+.buttonRead a:hover {
+ color: white;
+}
+
+.buttonReadMore {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #315b96;
+  margin-top: 9.5%;
+}
+
+.buttonReadMore:hover {
+  background-color:#233567;
+  color: #ffdfdf;
+}
+
+
+
+        
+.main_div_slider{
+
+width:100%;
+height:600px;
+display: flex;
+margin-bottom: 1%;
+}
+
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 50%;
+  position: relative;
+  margin: auto;
+  height: 100%;
+}
+
+
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #233567;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+  height: 100%;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+#right_description{
+  background-color: #315b96;
+  height: 100%;
+  width: 50%;
+ 
+}
+#description{
+  color: white;
+  font-size: 25px;
+  font: italic 36px Cardo, Georgia, Times New Roman, serif;
+  padding-top: 100px;
+  text-align: left;
+}
+
+
+
+.div_slide_text{
+
+  
+  width: 81%;
+  height: 60%;
+  margin-left: 15%;
+  margin-top: 15%;
+}
+
+
+.div_footer_container{
+
+  width: 100%;
+  height: 273px;
+  background-color: #233567;
+  margin-top: -10px;
+ 
+  
+}
+
+
+.div_footer_first_flex{
+  background-color: #6a8aac;
+  width: 25%;
+  height: 90%;
+  margin-left: 70px;
+}
+
+
+.div_footer_second_flex{
+  background-color: #233567;
+  width: 40%;
+  height: 90%;
+  display: flex;
+  flex-direction: row;
+}
+
+.div_footer_third_flex{
+  background-color: #233567;
+  width: 40%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.div_footer_container_flex_wrapper{
+
+width: 100%;
+height: 80%;
+display: flex;
+justify-content: space-evenly;
+flex-direction: row;
+
+
+}
+
+
+.div_footer_second_flex_menu_container{
+
+background-color: #233567;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+width: 35%;
+height: 100%;
+margin-left: 41px;
+
+}
+
+.menu_footer_div a {
+  color: #ffdfdf;
+  text-decoration: none;
+
+
+}
+
+.menu_footer_div {
+  margin-top: 31px;
+}
+
+
+.menu_footer_div a:hover {
+  
+  text-decoration: underline;
+  
+}
+
+
+
+
+
+.social-media-icons{
+
+width: 100%;
+height: 100%;
+
+
+
+}
+
+
+
+
+.div_na_ndiqni{
+
+width: 100%;
+height: 125px;
+
+
+}
+
+
+
+
+.social-media-link1{
+
+font-size: 18px;
+color: white;
+margin-left: 12px;
+text-decoration: none;
+
+
+}
+
+
+.social-media-link2{
+
+font-size: 18px;
+color: white;
+margin-left: 67px;
+text-decoration: none;
+
+
+}
+
+
+.last_div_hr{
+
+  width: 100%;
+  height: 68px;
+  background-color: #233567 ;
+}
+
+
+
+
+#credits_id{
+
+   float: right;
+   margin-right: 9%;
+   text-decoration:none;
+}
+
+
+
+
+.div_harku_nakontaktoni{
+
+    margin-left: 38%;
+    margin-top: 17%;
+
+}
+.icon8_link a{
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+.div_footer_second_flex_menu_container2{
+
+    width: 18%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.div_social_media_links_flex{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+
+}
+
+@media and screen (max-width: 1420px){
+  .footer_copyrights_container{
+    margin-top:44px;
+  }
+  footer{
+    height: 800px;
+  }
+}
+
+
+
+.div_footer_second_flex_menu_container3{
+
+  width: 30%;
+
+
+}
+
+
+
+.div_menu_kontakti_third_flex{
+    margin-top: 142px;
+    margin-left: 60px;
+    
+}
+
+
+.div_menu_kontakti_third_flex a{
+  color: #ffdfdf;
+    text-decoration: none;
+}
+
+#credits_id{
+  color:#ffdfdf;
+}
+
+.div_katrori_container_1{
+  margin-top: 112px;
+  background-color: white;
+  height: 677px;
+  width: 24%;
+  box-shadow: -2px 20px 40px #888888;
+
+}
+
+.div_katrori_container_2{
+  margin-top: 112px;
+  background-color: white;
+  height: 677px;
+  width: 24%;
+  box-shadow: -2px 20px 40px #888888;
+
+}
+
+.div_katrori_container_3{
+  margin-top: 112px;
+  background-color: white;
+  height: 677px;
+  width: 24%;
+  box-shadow: -2px 20px 40px #888888;
+
+}
+
+
+
+.div_image_results_transition_container{
+
+   width: 82.5%;
+   height: 55%;
+   background-color: white;
+   margin-top: 90px;
+    margin-left: 8%;
+    letter-spacing: 0.0625em;
+    text-align: justify;
+    color: #315b96;
+
+}
+
+
+/*****************************
+
+HOMEPAGE CIRCLES RESPONSIVE 
+
+*****************************/
+
+.div_homepage_responsive_container{
+  display: none;
+  width: 100%;
+  height: 2500px;
+}
+.div_homepage_responsive_rrathet_container{
+   width: 100%;
+   height: 300px;
+   position: relative;
+}
+
+.div_vija_pare_responsive_1{
+
+  width: 0px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  margin-left: 7px;
+  
+  
+}
+
+.div_vija_pare_responsive_2{
+
+  width: 0px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  margin-left: 7px;
+  
+  
+}
+.div_vija_pare_responsive_3{
+
+  width: 0px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  margin-left: 7px;
+  
+  
+}
+.div_vija_pare_responsive_4{
+
+  width: 0px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  margin-left: 7px;
+  
+  
+}
+
+
+
+.rrethi_pare_responsive{
+width: 50%;
+height: 80%;
+border-radius: 50%;
+
+background: green;
+display: inline-block;
+overflow: hidden;
+
+position: relative;
+}
+.div_vija_dyte_responsive_1{
+
+   width: 0px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  
+}
+
+.div_vija_dyte_responsive_2{
+
+   width: 0px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  
+}
+.div_vija_dyte_responsive_3{
+
+   width: 0px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  
+}
+.div_vija_dyte_responsive_4{
+
+   width: 0px;
+  height: 2px;
+  background: #003366;
+  display: inline-block;
+  margin-bottom: 121px;
+  
+}
+.img_ilustrimi_responsive_1{
+    position: absolute;
+    width: 2px;
+    left: 24%;
+    top: 60%;
+}
+.img_ilustrimi_responsive_2 {
+    position: absolute;
+    width: 2px;
+    left: 24%;
+    top: 60%;
+}
+.img_ilustrimi_responsive_3 {
+    position: absolute;
+    width: 2px;
+    left: 24%;
+    top: 60%;
+}
+.img_ilustrimi_responsive_4 {
+    position: absolute;
+    width: 2px;
+    left: 24%;
+    top: 60%;
+}
+.div_sherbimet_responsive_1{
+
+ height: 300px;
+ width: 70%;
+ background: #F5F5F5;
+ margin-left: 15%;
+ display: inline-block;
+ opacity: 0;
+
+}
+.div_sherbimet_responsive_2{
+
+ height: 300px;
+ width: 70%;
+ background: #F5F5F5;
+ margin-left: 15%;
+ display: inline-block;
+ opacity: 0;
+
+}
+.div_sherbimet_responsive_3{
+
+ height: 300px;
+ width: 70%;
+ background: #F5F5F5;
+ margin-left: 15%;
+ display: inline-block;
+ opacity: 0;
+
+}
+.div_sherbimet_responsive_4{
+
+ height: 300px;
+ width: 70%;
+ background: #F5F5F5;
+ margin-left: 15%;
+ display: inline-block;
+ opacity: 0;
+
+}
+#hr_finish_line_responsive{
+  width: 30%;
+  border-color:red;
+  border-width:0.5px;
+}
+
+
+
+
+/************************************/
+
+
+
+#div_header_menu_top{
+  width: 100%;
+  height: 60px;
+  background-color: white;
+  display: flex;
+
+
+}
+
+#div_header_menu_top2{
+  width: 100%;
+  height: 63px;
+  background-color: white;
+  display: flex;
+
+
+}
+
+.menu_lista{
+list-style-type: none;
+width: 100%;
+height: 100%;
+margin:0;
+padding:0;
+}
+
+
+
+.menu_lista li {
+
+   float: left;
+}
+
+.menu_lista a {
+    text-decoration: none;
+  color: #233567;
+  display: block;
+  padding-top:20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+
+
+
+.menu_lista a:hover{
+
+ color: white;
+ background: #233567;
+
+}
+
+.menu_lista2{
+list-style-type: none;
+width: 100%;
+height: 100%;
+margin:0;
+padding:0;
+}
+
+
+
+.menu_lista2 li {
+
+  float: left;
+}
+
+.menu_lista2 a {
+  text-decoration: none;
+  color: #233567;
+  display: block;
+  padding-top:16px;
+  padding-bottom: 20px;
+  padding-left: 39px;
+  padding-right: 39px;
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+}
+
+.menu_lista2 a:hover{
+
+ color: white;
+ background: #233567;
+
+}
+
+
+
+
+.menu_lista2 li:hover{
+  
+  color:red;
+}
+
+
+
+
+
+
+.div_menu_lista{
+
+    display: inline-block;
+    margin-left: 24%;
+    
+
+}
+
+.div_menu_lista2{
+
+    display: inline-block;
+    margin-left: 115px;
+    
+
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+
+}
+
+.div_heading_rezultatet{
+  width: 100%;
+  height: 100px;
+  background-color: #315b96;
+  
+}
+
+.div_heading_rezultatet h2{
+  
+    color: white;
+    font-size: 3vw;
+    
+    padding-top: 20px;
+    display: none;
+
+}
+
+
+#image_ovale_results{
+
+ 
+  width: 100%;
+  
+}
+
+.div_image_ovale_results{
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+  margin-bottom: -503px;
+}
+
+
+#h3_sherbimet_services{
+    margin-top: 110px;
+    font-size: 3.8vw;
+    font-family: 'Satisfy', cursive;
+    color:hsla(5, 324%, 78%, 1);
+    letter-spacing: 9px;
+    opacity: 0;
+}
+
+
+
+.div_tabcontent_container{
+
+  margin: 20px;
+  width: 100%;
+  height: 100%;
+  
+
+}
+
+#img_services_implantologji{
+float: right;
+width: 44%;
+height: 40%;
+margin-left: 2%;
+margin-bottom: 2%;
+margin-right: 3%;
+border-radius: 17px;
+margin-top:8%;
+
+}
+
+#img_services_ortodonci{
+float: right;
+width: 44%;
+height: 40%;
+margin-left: 2%;
+margin-bottom: 2%;
+margin-right: 3%;
+border-radius: 17px;
+margin-top:8%;
+
+}
+
+
+.div_tabcontent_container_second_row_img img {
+  width: 100%;
+  height: 80%;
+  margin-top: 12%;
+  border-radius: 17px;
+  
+}
+
+.div_tabcontent_container p {
+  padding:20px;
+  margin-top: 30px;
+  color: #315b96ba;
+  font-size: 25px;
+  text-align: left;
+  line-height: 1.5em; 
+  margin-left: 2%;
+}
+
+
+.div_tabcontent_container h2{
+
+    color: #315b96;
+    letter-spacing: 3px;
+    padding-top: 3px;
+
+}
+
+.div_tabcontent_container_first_row{
+
+  display: flex;
+  width: 100%;
+  height: 44%;
+  justify-content: space-around;  
+}
+
+
+.div_tabcontent_container_second_row{
+  display: flex;
+  width: 100%;
+  height: 50%;
+  margin-top: -10px;
+
+}
+
+.div_tabcontent_container_second_row_p{
+  width: 60%;
+  height: 100%;
+}
+
+.div_quarter_circle_right{
+
+  background-color: #F5F5F5;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  float: right;
+  margin-left:19.5%;
+  margin-top: -2px;
+  position: absolute;
+
+}
+
+.div_quarter_circle_right img {
+
+    width: 0%;
+    height: 0%;
+    margin-left: 35px;
+    margin-top: 32px;
+}
+.div_paragraphs_under_Team_container{
+  width: 100%;
+  height: 174px;
+  display: flex;
+  justify-content: flex-start;
+
+}
+
+.div_paragraphs_under_Team_first_div{
+
+  width: 20%;
+  text-align: center;
+  color: #004db5c7;
+  margin-left: 244px;
+  line-height: 30px;
+  margin-top: 125px;
+}
+
+.div_paragraphs_under_Team_second_div{
+
+  width: 20%;
+  text-align: center;
+  color: #004db5c7;
+  margin-left: 86px;
+   line-height: 30px;
+    margin-top: 125px;
+}
+
+.div_paragraphs_under_Team_third_div{
+ 
+  margin-left: 93px;
+  width: 20%;
+  text-align: center;
+  color: #004db5c7;
+   line-height: 30px;
+    margin-top: 125px;
+}
+
+.div_paragraphs_under_Team_first_div hr{
+
+  width: 20%;
+  margin-left: 136px;
+  border-color:#ff7490;
+  border-width: 0.7px;
+  margin-top: 30px;
+
+
+}
+
+.div_paragraphs_under_Team_second_div hr{
+
+  width: 20%;
+  margin-left: 136px;
+  border-color:#ff7490;
+   border-width: 0.7px;
+    margin-top: 30px;
+  
+
+}
+
+.div_paragraphs_under_Team_third_div hr{
+
+  width: 20%;
+  margin-left: 136px;
+  border-color:#ff7490;
+   border-width: 0.7px;
+    margin-top: 30px;
+  
+
+}
+
+.h2_two_row_images_paragraph_content{
+  float:left;
+  margin-left: 20%;
+  color: #315b96;
+  letter-spacing: 3px;
+}
+
+.div_tabcontent_container_second_row_img{
+  width: 40%;
+  height: 100%;
+  margin-left: 2%;
+}
+
+
+.shiriti_top_parallax{
+
+  width: 100%;
+  height: 7px;
+  background-color: #ffdfdf;
+}
+
+.shiriti_bottom_parallax{
+
+  width: 100%;
+  height: 7px;
+  background-color: #ffdfdf;
+
+}
+
+.div_rezervimet h3{
+  font-family: 'Crimson Text', serif;
+  font-size: 23px;
+  color: #003365;
+}
+
+.div_staff h3{
+
+  font-family: 'Crimson Text', serif;
+  font-size: 23px;
+  color: #003365;
+
+}
+
+.div_results h3 {
+
+  font-family: 'Crimson Text', serif;
+  font-size: 23px;
+  color: #003365;
+ 
+}
+
+.teethwhitening{
+  margin-left: 46px;
+}
+
+
+.div_harku_nakontaktoni h2 {
+
+  font-size: 30px;  
+  font-family: 'Crimson Text', serif;
+}
+
+.div_footer_second_flex_menu_container h2 {
+
+  font-family: 'Crimson Text', serif;
+
+}
+
+.div_na_ndiqni h2 {
+
+  font-family: 'Crimson Text', serif;
+
+}
+
+.tabcontent h2 {
+
+  font-family: 'Crimson Text', serif;
+}
+
+.div_language_switch{
+ 
+    margin: 0;
+    padding: 0;
+    width: 170px;
+    height: 100%;
+    display: inline-block;
+    margin-left: 17%;
+
+}
+
+.div_language_switch ul{
+
+  list-style-type: none;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+
+.div_language_switch li {
+  float: left;
+  width: 43%;
+  height: 100%;
+}
+
+.div_language_switch a {
+
+  padding:20px;
+  display: block;
+  width: 43%;
+  height: 37%;
+  
+
+}
+
+.div_language_switch img {
+
+  width: 100%;
+  height: 100%;
+}
+
+
+.div_image_results_transition_container p {
+
+  font-size: 1em;
+}
+
+
+.div_tabcontent_container_first_row_img img {
+
+  width: 100%;
+  height: 88%;
+  margin-top: 12%;
+  border-radius: 17px;
+}
+
+.div_tabcontent_container_first_row_img {
+  width: 40%;
+  margin-right: 4%;
+  height: 100%;
+}
+
+
+
+
+.div_tabcontent_container_first_row_p {
+  width: 60%;
+}
+
+
+.imageBefore img {
+  width: 100%;
+  height: 100%;
+}
+
+.imageAfter img {
+  width: 330px;
+  height: 230px;
+}
+
+
+iframe {
+  width: 1200px;
+  height: 600px;
+}
+
+.div_services{
+  height: 260px;
+}
+
+
+.div_logo_menu_responsive{
+
+
+  width: 40px;
+  height: 40px;
+  
+  background: red;
+}
+
+
+
+/*****************************
+
+RESPONSIVE SERVICES PAGE
+
+
+******************************/
+
+.div_container_responsive{
+  display: none;
+  width: 100%;
+  height: 5010px;
+
+
+
+}
+
+.div_image_container_responsive{
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.div_image_container_responsive img{
+  width: 100%;
+  height: 100%;
+  transition: all 4.5 ease;
+}
+.div_image_container_responsive img:hover{
+  transform: scale(1.2);
+}
+
+.div_services_info_responsive_diff_color{
+  width: 100%;
+  height: 455px;
+  background: #ffdfdf94;
+  display: none;
+  margin-top: -20px;
+}
+
+.div_services_info_responsive_diff_color_homepage{
+  width: 100%;
+  height: 515px;
+  background: #ffdfdf94;
+  display: none;
+  margin-top: -20px;
+}
+
+.div_services_info_responsive_diff_color_second{
+  width: 100%;
+  height: 320px;
+  background: white;
+  display: none;
+  
+}
+
+.div_services_info_responsive_diff_color_h2_container{
+  width: 100%;
+  padding-top: 20px;
+  
+
+}
+
+.div_services_info_responsive_diff_color_h2_container_second{
+  width: 100%;
+  padding-top: 20px;
+  
+
+}
+.div_services_info_responsive_diff_color_h2_container h2{
+  font-family: "Crimson Text", serif;
+  font-size: 30px;
+  margin-left: 6%;
+  color: #233567;
+}
+
+.div_services_info_responsive_diff_color_h2_container_second h2{
+  font-family: "Crimson Text", serif;
+  font-size: 30px;
+  margin-left: 6%;
+  color: #233567;
+}
+.div_services_info_responsive_diff_color_p_container p {
+  letter-spacing: 1.3px;
+  line-height: 30px;
+  padding: 33px;
+  padding-top: 0px;
+  color: #315b96;
+}
+.div_services_info_responsive_diff_color_p_container_second p {
+  letter-spacing: 1.3px;
+  line-height: 30px;
+  padding: 33px;
+  padding-top: 0px;
+  color: black;
+}
+
+
+.div_services_paragraf_container_responsive{
+  width: 90%;
+  height: 650px;
+  margin: 5%;
+  
+}
+.div_services_info_headings_responsive{
+  width: 100%;
+  height: 400px;
+
+}
+
+.div_heading_service_description_responsive{
+  width: 100%;
+  height: 50px;
+  background: #315b96;
+}
+.div_paragraf_service_description_responsive{
+   margin-top: 10%;
+  width: 100%;
+  height: 90%;
+}
+
+.div_paragraf_service_description_responsive p {
+  
+  font-family: 'Muli', sans-serif;
+  text-align: left;
+    line-height: 2em;
+    letter-spacing: 2px;
+}
+
+.div_heading_service_description_responsive h2{
+
+  color: white;
+  margin-left: 28%;
+  letter-spacing: 2px;
+  font-family: "Crimson Text", serif;
+  font-size: 1.6em;
+  padding-top: 1.5%;
+
+
+}
+
+#h2_zbardhimi_dhembeve_responsive{
+  margin-left: 20%;
+}
+
+.div_last_line_before_footer_responsive{
+  width: 100%;
+  background: #315b96;
+  height: 3px;
+}
+
+.div_services_h2_inside_image_container{
+  position: absolute;
+  top: 39%;
+  left: 25%;
+  width: 300px;
+  height: 300px;
+  display: none;
+}
+.div_services_h2_inside_image_container h2 {
+  font-family: "Crimson Text", serif;
+  font-size: 40px;
+  color: #233567;
+
+}
+
+
+.footer_icons_container_child img:hover{
+  filter: grayscale(50%);
+  opacity: 0.8;
+
+}
+
+
+
+
+/*******************************
+
+RESPONSIVE MEET THE TEAM
+
+
+*******************************/
+
+
+.div_meetTeam_container_responsive{
+ height: 2800px;
+ width: 100%;
+ display: flex;
+ flex-direction: column;
+ display: none;
+}
+.div_doctor_container_responsive{
+  width: 90%;
+  height: 600px;
+  margin: 5%;
+  background: white;
+  margin-top: 60px;
+  
+    
+}
+
+.div_doctor_container_responsive img{
+  width: 100%;
+  height: 100%;
+}
+
+.div_doctor_image_container_responsive{
+  width: 100%;
+  height: 50%;
+  overflow: hidden;
+ 
+  margin: 0;
+  padding: 0;
+}
+.div_doctor_description_container_responsive{
+  width: 100%;
+  height: 50%;
+  background: white;
+  margin: 0;
+  padding: 0;
+}
+.div_heading_emri_doctor_responsive{
+  height: 30px;
+ 
+  width: 100%;
+}
+.div_doctor_container_responsive:hover{
+  box-shadow: 1px 20px 20px grey;
+}
+
+.div_heading_emri_doctor_responsive h2{
+  font-family: "Crimson Text", serif;
+  padding-left: 5%;
+  color: #233567;
+}
+.div_doctor_paragraf_description_responsive p{
+  color: #315b96;
+  padding: 5%;
+  font-size: 1em;
+  letter-spacing: 1.5px;
+
+}
+
+
+
+/****************************
+
+
+Hamburger Menu
+
+******************************/
+
+.topnav {
+  display: none;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #233567;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+
+}
+
+.topnav a.icon {
+  background: #eae5e5;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 21px;
+
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #233567;
+  color: white;
+}
+
+
+@media screen and (min-width: 300px) and (max-width: 800px){
+  
+  
+  .footer_copyrights_container{
+    margin-top: 320px;    
+  }
+  footer{
+    height: 820px;
+  }
+  #credits_id {
+    margin-left: 8%;
+  }
+  .footer_links_container_child_kontakti_ekipi{
+    height: 146px;
+  }
+  .footer_links_container_child_kontakti_ekipi div{
+    height: 50%;
+
+  }
+  .footer_icons_container_child{
+    width: 100px;
+    height: 100px;
+  }
+}
+
+@media screen and (min-width: 800px) and (max-width: 1420px){
+  
+  footer{
+    height: 820px;
+  }
+  .footer_copyrights_container{
+    margin-top: 100px;    
+  }
+}
+
+
+
+@media screen and (max-width:1180px){
+  .topnav {
+    display: block;
+  }
+  #div_header_menu_top2{
+    display: none;
+  }
+  #div_header_menu_top{
+    display: none;
+  }
+}
+
+@media screen and (max-width:950px){
+ .div_services_h2_inside_image_container{
+  display: block;
+ }
+ .div_image_contact{
+  -webkit-filter:brightness(60%);
+ }
+ .div_services_info_responsive_diff_color{
+  display: block;
+ }
+ .div_services_info_responsive_diff_color_second {
+  display: block;
+ }
+ .div_image_contact_Team{
+  background-position: -45px -7px;
+ }
+ .div_homepage_ovale_container{
+  display: block;
+ }
+ .div_services_info_responsive_diff_color_homepage{
+  display: block;
+ }
+ .parallax button{
+      margin-top: 49%;
+    margin-left: 22%;
+
+ }
+ .harku {
+  display: none;
+ }
+ 
+ 
+}
+
+@media screen and (max-width: 750px){
+
+   .div_katrori_container_3{
+  display: none;
+ }
+
+ .div_katrori_container_1{
+  width: 75%;
+ }
+ .div_katrori_container_2{
+  display: none;
+ }
+
+
+}
+
+
+
+
+/******************************
+
+images before and after
+
+*******************************/
+
+@media screen and (min-width: 750px) and (max-width: 1000px){
+
+ .div_katrori_container_3{
+  display: none;
+ }
+
+ .div_katrori_container_1{
+  width: 40%;
+ }
+ .div_katrori_container_2{
+  width: 40%;
+ }
+
+
+ .div_menu_kontakti_third_flex {
+  display: none;
+ }
+
+ 
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 1000px) and (max-width: 1250px){
+
+  .imageAfter img{
+    width: 240px;
+  }
+}
+
+
+@media screen and (max-width:1100px){
+  .harku {
+    width:51%;
+  }
+}
+
+
+
+@media screen and (min-width: 1250px) and (max-width: 1350px){
+
+  .imageAfter img{
+    width: 260px;
+  }
+}
+
+
+@media screen and (min-width: 1350px) and (max-width: 1550px){
+
+  .imageAfter img{
+    width: 290px;
+  }
+}
+
+/*******************************
+
+
+            Menu
+
+
+*******************************/
+
+@media screen and (min-width: 1100px) and (max-width: 1545px){
+
+  .div_menu_lista2{
+    margin-left: 10px;
+  }
+
+  footer{
+    height: 600px;
+  }
+}
+
+
+@media screen and (max-width:1508px){
+.div_services{
+ 
+  height: 400px;
+
+
+}
+}
+
+
+/***************************
+
+ Ilustrimet dhe rrathet
+
+***************************/
+
+@media screen and (max-width:1435px){
+
+    .container_hark{
+     margin-bottom:240px;
+    }
+
+}
+
+
+/*******************************
+
+MENU NON-INDEX PAGE
+
+********************************/
+@media screen and (max-width:1300px){
+
+    .div_menu_lista{
+     margin-left: 7%;
+    }
+    .div_language_switch{
+      margin-left: 10%;
+    }
+
+} 
+
+
+
+
+@media screen and (min-width: 1300px) and (max-width:1400px){
+
+    .div_menu_lista{
+     margin-left: 10%;
+    }
+
+      .div_language_switch{
+      margin-left: 13%;
+    }
+
+} 
+
+
+
+@media screen and (min-width:1400px) and (max-width: 1500px){
+
+    .div_menu_lista{
+     margin-left: 15%;
+    }
+     .div_language_switch{
+      margin-left: 13%;
+    }
+
+} 
+
+@media screen and (min-width:1500px) and (max-width: 1640px){
+
+    .div_menu_lista{
+     margin-left: 20%;
+    }
+     .div_language_switch{
+      margin-left: 13%;
+    }
+
+} 
+
+/*****************************
+
+EKIPI RESPONSIVE
+
+
+
+@media screen and (max-width: 1480px){
+
+   .div_quarter_circle_right{
+    display: none;  
+   }
+
+   .div_meetTeam_container{
+    height: 1000px;
+    flex-wrap: wrap;
+   }
+   .div_meetTeam_dentist_container{
+    width: 35%;
+    height: 500px;
+   }
+
+   .div_meetTeam_dentist_image_circle{
+    width: 25%;
+   }
+
+   .div_overlay_Test{
+    height: 700px;
+    flex-wrap: wrap;
+   }
+
+} 
+*******************************/
+
+/***********************************
+
+RRATHET E IKONAVE RESPONSIVE NE TEAM PAGE
+***********************************/
+
+@media screen and (max-width:1380px){
+
+   .div_meetTeam_dentist_image_circle{
+    height:136% ;
+    width:15%;
+   }
+
+}
+
+@media screen and (min-width:1380px) and (max-width:1480px){
+
+   .div_meetTeam_dentist_image_circle{
+    height:145% ;
+    width:15%;
+   }
+
+    #h3_meetTeam{
+       padding-top:43%;
+    }
+  
+
+}
+
+
+@media screen and (min-width:1100px) and (max-width:1300px){
+
+   
+    #h3_meetTeam{
+       padding-left:19%;
+    }
+
+    .div_meetTeam_dentist_image_circle{
+      height: 125%;
+    }
+    .div_meetTeam_dentist_image_circle{
+      margin-top: -130px;
+    }
+
+    .div_meetTeam_dentist_content{
+      height: 70%;
+    }
+  
+
+}
+
+@media screen and (max-width: 1450px){
+  .div_quarter_circle_right{
+    display: none;
+
+  }
+
+  .div_paragraphs_under_Team_container{
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 1100px){
+  .main_div_slider{
+    height: 1200px;
+    flex-direction: column;
+  }
+
+  .slideshow-container{
+    width: 100%;
+  }
+  #right_description{
+    width: 100%;
+  }
+}
+
+
+
+@media screen and (min-width: 1170px) and (max-width: 1680px){
+
+#tablink1{
+  display: block;
+}
+#London {
+  display: block;
+}
+
+
+}
+
+@media screen and (max-width: 1170px){
+
+#tablink1{
+  display: none;
+}
+#London {
+  display: none;
+}
+.div_brusha_siperme{
+  display: none;
+}
+.div_brusha_poshtme{
+  display: none;  
+}
+.buttons_container{
+  display: none;
+}
+.div_brusha_container{
+  display: none;
+}
+
+.div_sherbimet_hidden_info{
+  display: none;
+}
+.div_container_responsive{
+  display: block;
+}
+.div_services_info_responsive_diff_color{
+  display: block;
+}
+.div_services_info_responsive_diff_color_second{
+  display: block;
+}
+
+}
+/**********************************
+
+RESPONSIVE MEET THE TEAM
+
+*********************************/
+
+
+
+
+@media screen and (max-width: 1000px){
+
+.div_meetTeam_container{
+  display: none;
+}
+.div_overlay_Test{
+  display: none;
+}
+.div_meetTeam_dentist_image_circle{
+  display: none;
+}
+
+}
+
+@media screen and (max-width: 1000px){
+
+.div_meetTeam_container_responsive{
+  display: block;
+}
+
+}
+
+
+/**********************************
+
+ HOMEPAGE RESPONSIVE
+
+*********************************/
+
+@media screen and (max-width: 950px){
+
+.container_hark{
+  display: none;
+}
+.rrathet{
+  display: none;
+}
+.palidhje{
+  display: none;
+}
+.div_services{
+  display: none;
+}
+
+.div_homepage_responsive_container{
+  display: block;
+}
+
+.ilustrimet_container{
+  height: 40px;
+  width: 100%;
+}
+
+}
+
+
+
+@media screen and (min-width: 1170px) and (max-width: 1600px){
+
+.tabcontent{
+   height: 1600px;
+}
+
+
+
+
+  }
+
+@media screen and (max-width: 1420px){
+
+
+.div_rezervimet:hover{
+  box-shadow: none;
+}
+.div_results:hover{
+  box-shadow: none;
+}
+
+.container_hark > :first-child{
+  display: none;
+}
+
+}
+
+
+@media screen and (min-width: 1000px) and (max-width: 1165px){
+
+   .div_flex{
+    height: 860px;
+   }
+   .containerResults{
+     height: 27%;
+   }
+   .containerResults2{
+     height: 27%;
+   }
+   .containerResults3{
+     height: 27%;
+   }
+   .div_katrori_container_1{
+      height: 830px;
+   }
+   .div_katrori_container_2{
+       height: 830px;
+   }
+
+    .div_katrori_container_3{
+        height: 830px;
+   }
+
+
+
+
+
+  }
+
+
+
+@media screen and (min-width: 1165px) and (max-width: 1465px){
+
+   .div_flex{
+    height: 760px;
+   }
+   .containerResults{
+     height: 27%;
+   }
+   .containerResults2{
+     height: 27%;
+   }
+   .containerResults3{
+     height: 27%;
+   }
+   .div_katrori_container_1{
+      height: 740px;
+   }
+   .div_katrori_container_2{
+       height: 740px;
+   }
+
+    .div_katrori_container_3{
+        height: 740px;
+   }
+
+
+
+
+
+  }
+
+
+
+  @media screen and (min-width: 750px) and (max-width: 880px){
+
+  
+    .div_flex{
+    height: 760px;
+   }
+   .containerResults{
+     height: 27%;
+   }
+   .containerResults2{
+     height: 27%;
+   }
+   .containerResults3{
+     height: 27%;
+   }
+   .div_katrori_container_1{
+      height: 740px;
+   }
+   .div_katrori_container_2{
+       height: 740px;
+   }
+
+    .div_katrori_container_3{
+        height: 740px;
+   }
+
+
+
+  }
+
+
+
+  @media screen and (min-width: 560px) and (max-width: 650px){
+
+  .imageAfter img{
+    width: 401px;
+  }
+}
+
+ @media screen and (min-width: 650px) and (max-width: 750px){
+
+  .imageAfter img{
+    width: 440px;
+  }
+}
+
+
+
+ @media screen and (min-width: 1180px) and (max-width: 1435px){
+
+  .info_div{
+    width: 45%;
+    margin-left: 4%;
+  }
+
+}
+
+
+ @media screen and (min-width: 520px) and (max-width: 900px){
+
+ .img_ilustrimi_responsive_1{
+  display: none;
+ }
+ .img_ilustrimi_responsive_2{
+  display: none;
+ }
+ .img_ilustrimi_responsive_3{
+  display: none;
+ }
+ .img_ilustrimi_responsive_4{
+  display: none;
+ }
+
+
+}
+
+@media screen  and (max-width: 1180px){
+
+#img_ilustrimi4{
+  margin-left: 3.8%;
+}
+
+
+}
+@media screen and (max-width: 1450px){
+
+.menu_lista2 li:nth-child(5){
+  display: none;
+}
+
+}
+@media screen and (max-width: 1180px){
+
+.div_language_switcher_responsive{
+  display: block;
+}
+
+}
+
